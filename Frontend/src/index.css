@@ -1,0 +1,9 @@
+@import "tailwindcss";
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url(..//assets/Testing-bg2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
